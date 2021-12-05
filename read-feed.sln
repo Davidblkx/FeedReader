@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "read-feed.core", "read-feed.core\read-feed.core.csproj", "{73DE2017-725F-4245-A2CB-9BFA91E71393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "read-feed.api", "read-feed.api\read-feed.api.csproj", "{C29E0812-582C-4570-B58E-D4623FF83260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73DE2017-725F-4245-A2CB-9BFA91E71393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DE2017-725F-4245-A2CB-9BFA91E71393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DE2017-725F-4245-A2CB-9BFA91E71393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DE2017-725F-4245-A2CB-9BFA91E71393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29E0812-582C-4570-B58E-D4623FF83260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29E0812-582C-4570-B58E-D4623FF83260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29E0812-582C-4570-B58E-D4623FF83260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29E0812-582C-4570-B58E-D4623FF83260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B95BEB9D-E735-4F6D-96ED-56F718EEB82C}
+	EndGlobalSection
+EndGlobal
